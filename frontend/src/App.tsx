@@ -11,7 +11,6 @@ interface Device {
   id: string;
   name: string;
 }
-/// чек
 interface Auditory {
   id: string;
   name: string;

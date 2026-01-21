@@ -13,7 +13,6 @@ import {
   UpdateBookingSchema
 } from './types.js'
 ///export
-///export
 export async function buildApp() {
   const app = Fastify({
     logger: true,
